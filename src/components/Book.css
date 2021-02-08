@@ -1,0 +1,15 @@
+.book-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.book-wrapper{
+    width: 30%;
+    text-align: center;
+}
+
+.book-image{
+    width: 250px;
+}
